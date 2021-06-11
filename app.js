@@ -6,8 +6,8 @@ score = 0;
 const highScore =
     [
 	{
-			name: 'Jeevan',
-			score : 4
+			name: 'Krishna',
+			score : 5
 	}
     ]
 
